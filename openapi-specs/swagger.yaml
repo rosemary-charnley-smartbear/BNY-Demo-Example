@@ -3,6 +3,7 @@ info:
   version: "1.0.0"
   title: Swagger Petstore
   termsOfService: 'http://swagger.io/terms/'
+  description: 'This is a test description'
   contact:
     email: apiteam@swagger.io
   license:
